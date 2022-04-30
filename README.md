@@ -10,7 +10,7 @@ this is system is consist of 3 Role
 
 the **Admin** is reponsible of 
 1. **CRUD** Opreation for Courses
-2. ![alt text](https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG?raw=true =250x250)
+2. ![course](https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG?raw=true)
 3. **CRUD**  Instructor
 4. **CRUD**  Student
 5. solve student problems by reply to thier messages
