@@ -12,7 +12,8 @@ the Admin is reponsible of
 *  **CRUD** Opreation for Courses
 
 
-  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG">    <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addCourse.PNG"> 
+  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG">    
+  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addCourse.PNG"> 
 
 
   
