@@ -11,8 +11,8 @@ this is system is consist of 3 Role
 the Admin is reponsible of 
 *  **CRUD** Opreation for Courses
 <p align="center">
-  * <img align="left" width="600" height="380" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG"> 
-  * <img align="right" width="600" height="380" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addCourse.PNG"> 
+  <img align="left" width="600" height="380" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG"> 
+  <img align="right" width="600" height="380" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addCourse.PNG"> 
   </p>
 
 
