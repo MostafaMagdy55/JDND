@@ -9,10 +9,11 @@ this is system is consist of 3 Role
 * **Student*
 
 the **Admin** is reponsible of 
-1. **CRUD** Opreation for Courses
-2. ![course](https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG?raw=true)
-3. **CRUD**  Instructor
-4. **CRUD**  Student
-5. solve student problems by reply to thier messages
+* **CRUD** Opreation for Courses
+<img align="left" width="100" height="100" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG">
+ 
+* **CRUD**  Instructor
+* **CRUD**  Student
+* solve student problems by reply to thier messages
 
 
