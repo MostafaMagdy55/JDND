@@ -10,8 +10,8 @@ this is system is consist of 3 Role
 
 the Admin is reponsible of 
 *  **CRUD** Opreation for Courses
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+
+
   <img  width="400" height="190" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG">   |  <img  width="400" height="190" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addCourse.PNG"> 
 
 
