@@ -15,10 +15,19 @@ the Admin is reponsible of
   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG">    
   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addCourse.PNG"> 
 
-* **CRUD**  Instructor
+* **CRUD** Opreation for  Instructor and Student
 
  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addInstructor.PNG">    
-  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/showInstructor.PNG"> 
-  
+ <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/showInstructor.PNG"> 
+ 
+ * solve student problems by reply to thier messages
+
+ <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/problems.PNG">    
+ <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/adminReplay.PNG"> 
+ 
+  * admin has dashboard to monitor the system
+ <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/dashboard.PNG">    
+
+
 
 
