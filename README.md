@@ -15,7 +15,4 @@ the Admin is reponsible of
   * <img align="right" width="600" height="380" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addCourse.PNG"> 
   </p>
 
-- **CRUD**  Instructor
-- **CRUD**  Student
-- solve student problems by reply to thier messages
 
