@@ -12,7 +12,7 @@ the Admin is reponsible of
 *  **CRUD** Opreation for Courses
 
 
-  <img  width="450" height="210" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG">       <img  width="450" height="210" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addCourse.PNG"> 
+  <img  width="450" height="210" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG"> | <img  width="450" height="210" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addCourse.PNG"> 
 
 
   
