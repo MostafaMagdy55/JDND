@@ -15,7 +15,10 @@ the Admin is reponsible of
   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG">    
   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addCourse.PNG"> 
 
+* **CRUD**  Instructor
 
+ <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addInstructor.PNG">    
+  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/showInstructor.PNG"> 
   
 
 
