@@ -15,7 +15,7 @@ this is an examination system that enble to instructor to put exam and student e
 |Fontawesome  |LomBok             |
 
 # Description
-this is system is consist of 3 Role
+this is system  consist of 3 Role
 * **Admin**
 * **Instructor**
 * **Student**
