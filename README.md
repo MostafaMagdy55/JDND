@@ -76,8 +76,8 @@ this is system  consist of 3 Role
   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/resultStudent.PNG">  
   
   ## send Problem to Admin
-     <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/newMessage.PNG">  
+   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/newMessage.PNG">  
     
    ## Chat with Admin
-    <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/chatStudet.PNG">  
+  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/chatStudet.PNG">  
   
