@@ -20,7 +20,8 @@ this is system is consist of 3 Role
 * **Instructor**
 * **Student**
 
-# the Admin is reponsible of 
+#  Admin
+
 ## CRUD Opreation for Courses
 
 
@@ -40,6 +41,19 @@ this is system is consist of 3 Role
  ##  admin has dashboard to monitor the system
  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/dashboard.PNG">    
 
+# Instructor
 
+ ## view Profile 
+  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/instructorProfile.PNG">   
+ 
+  ## view his Courses 
+   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/courseInstructor.PNG">   
+   
+   ## set Exam
+   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/setExam.PNG">   
+   
+   ## set Question
+    <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/setQuestion.PNG">   
 
-
+  ## view his Exams 
+ <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/myExamInstructor.PNG">   
