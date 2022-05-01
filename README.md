@@ -57,3 +57,27 @@ this is system is consist of 3 Role
 
   ## view his Exams 
  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/myExamInstructor.PNG">   
+ 
+ # Student 
+ 
+  ## view Profile 
+  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/studentProfile.PNG">
+ 
+  ## view his Courses 
+   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/studentCourse.PNG">   
+   
+   ## view his Exams 
+  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/myExamStudent.PNG">  
+  
+  ## answer Question
+  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/questionStudent.PNG">  
+  
+  ## see Result
+  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/resultStudent.PNG">  
+  
+  ## see Problem to Admin
+    <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/newMessage.PNG">  
+    
+   ## Chat with Admin
+     <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/chatStudet.PNG">  
+  
