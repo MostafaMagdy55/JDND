@@ -29,7 +29,7 @@ this is system  consist of 3 Role
 
 ## CRUD Opreation for  Instructor and Student
 
- <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addInstructor.PNG">   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/showInstructor.PNG">
+ <img  src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addInstructor.PNG">   <img  src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/showInstructor.PNG">
  
  
  
