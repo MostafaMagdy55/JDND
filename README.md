@@ -1,83 +1,76 @@
-# Examination System 
-this is a part of my graduation project E-exam-Cheating-Detection-System.
-this is an examination system that enble to instructor to put exam and student enter exam then the answer of the student will be evalute automatically and student can see his grade 
+# Spring Microservices blog :coffee:
 
 
-## Tools
 
-| FrontEnd      | BackEnd |
-| ----------- | -----------       |
-| HTML        | SpringBoot        |
-| CSS         | SpringSecurity    |
-|BootStrap    | SpringData        |
-|JavaScript   | MySql             |
-|Jquery       | Thymeleaf         |
-|Fontawesome  |LomBok             |
+## Technologies :computer:
 
-# Description
-this is system  consist of 3 Role
-* **Admin**
-* **Instructor**
-* **Student**
-
-#  Admin
-
-## CRUD Opreation for Courses
+- Java
+- Spring boot
+- Spring Cloud
+   - Config Server
+   - Congig Client
+   - Eureka Server
+   - Eureka Client
+   -  Api GateWay 
+- Spring Data JPA 
+- MySql
+- Postman
 
 
-  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/Cousres.PNG">   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addCourse.PNG"> 
+## Features :fire: 
 
-## CRUD Opreation for  Instructor and Student
+#### to both users: 
+- Sign up and Sign in
+- Update and Delete (if you haven't bought or sold any product) yourself
+- Get a seller and client ranking 
 
- <img  src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/addInstructor.PNG">   <img  src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/showInstructor.PNG">
- 
- 
- 
- 
-##  solve student problems by reply to thier messages
 
- <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/problems.PNG">  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/adminReplay.PNG"> 
- 
- ##  admin has dashboard to monitor the system
- <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/dashboard.PNG">    
+#### only for clients
+- Add product in your wishlist
+- Buy product (when this happens, an email is sent to client and to the seller) 
 
-# Instructor
+#### only for sellers
+- Create, update and delete products
+- Sell a product
 
- ## view Profile 
-  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/instructorProfile.PNG">   
- 
-  ## view his Courses 
-   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/courseInstructor.PNG">   
-   
-   ## set Exam
-   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/setExam.PNG">   
-   
-   ## set Question
-   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/setQuestion.PNG">         
 
-  ## view his Exams 
- <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/myExamInstructor.PNG">   
- 
- # Student 
- 
-  ## view Profile 
-  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/studentProfile.PNG">
- 
-  ## view his Courses 
-   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/studentCourse.PNG">   
-   
-   ## view his Exams 
-  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/myExamStudent.PNG">  
+## How to use :wave: (IF YOU WANT TO USE IT LOCALLY) 
+
+To clone and run this application by yourself, make sure you have at least Java 8 and all JDK stuff (including JRE), Maven to build the dependencies,
+Ecplise or STS, and Postman (it's not necessary, though it's really useful to handle a rest API. After that, do the following instructions
+
+- Switch the branch to ```running-locally```
+
+- Clone this repository
+```bash
+$ https://github.com/MostafaMagdy55/ecommerce.git
+```
+- Open this project using Eclipse or Spring tool Suit
+
+- Run ```EcommerceApplication.java```
+  > This is gonna be building the maven dependencies too
+
+- The endpoints are located in 'http://localhost:8080/' and config its port on ```src/main/resources/application.properties```
+  > Use a software like postman to do the resquests. 
   
-  ## answer Question
-  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/questionStudent.PNG">  
-  
-  ## see Result
-  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/resultStudent.PNG">  
-  
-  ## send Problem to Admin
-   <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/newMessage.PNG">  
-    
-   ## Chat with Admin
-  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/Examination-System/blob/main/images/chatStudet.PNG">  
-  
+- Make sure to create a database called **ecommerce** 
+  > or create it with another name. However, you must to rename its name in ```src/main/resources/application.properties```
+
+ **By the way, you can change the port (8080) to another one, just change the line in ```src/main/resources/application.properties```**
+
+  **Now, you are able to run this Java application locally.** :heavy_check_mark:
+
+
+
+# API Documentation :memo:
+
+Swagger is responsible to provide a documentation of the API, it break down the endpoints and the models of the application.
+
+
+ <img  width="600" height="290" src="https://github.com/MostafaMagdy55/ecommerce/blob/master/images/Swagger1.PNG">  
+  <img  width="600" height="290" src="https://github.com/MostafaMagdy55/ecommerce/blob/master/images/Swagger2.PNG">  
+ 
+
+
+
+
