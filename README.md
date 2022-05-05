@@ -25,9 +25,9 @@
 - **COMMENTS**
  ##### I used  Spring Config Server to share configration , i used Spring Api Gateway to Fiter and Routing  Requests and  i used Spring Eureka server to register the services and load balancing between them.
  
-##### the first service is USRES you can do CRUD Operation then you can call Posts Service
-##### the second service is POSTS you can do CRUD Operation then you can call Comments Service
-##### the third service is COMMENTS you can do CRUD Operation 
+##### - the first service is USRES you can do CRUD Operation then you can call Posts Service
+##### - the second service is POSTS you can do CRUD Operation then you can call Comments Service
+##### - the third service is COMMENTS you can do CRUD Operation 
 
 
 
@@ -45,4 +45,7 @@ $ https://github.com/MostafaMagdy55/Microservices_Blog_App-.git
 1.  Run Config Server The endpoints are located in 'http://localhost:8888/'
 2.  Run Eureka Server The endpoints are located in 'http://localhost:8761/'
 3.  Run Users Service ,Run Post Service , Run Comment Service then Run  Api Gateway The endpoints are located in 'http://localhost:8765/'
+
+
+
  
