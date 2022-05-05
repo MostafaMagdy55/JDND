@@ -44,12 +44,11 @@ $ https://github.com/MostafaMagdy55/Microservices_Blog_App-.git
  
 1.  Run Config Server The endpoints are located in 'http://localhost:8888/'
 2.  Run Eureka Server The endpoints are located in 'http://localhost:8761/'
-3.  Create Databases With name
+3.  Create Databases With names
     -  usres
     -   posts
     -   comments
 5.  Run Users Service ,Run Post Service , Run Comment Service then Run  Api Gateway The endpoints are located in 'http://localhost:8765/'
-
 
 
 
