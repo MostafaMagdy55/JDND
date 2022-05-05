@@ -17,36 +17,41 @@
 - Postman
 
 
-## Features :fire: 
+## Description :fire: 
 
-#### to both users: 
-- Sign up and Sign in
-- Update and Delete (if you haven't bought or sold any product) yourself
-- Get a seller and client ranking 
+##### this is a Microservices project consist of three Microservices 
+- **USERS
+- **POSTS
+- **COMMENTS**
+ ##### sharing  configration by using Spring Config Server , use Spring Api Gateway to Fiter and Routing  Requests and use Spring Eureka server to register the services and load balancing between them.
+ 
+##### the first service is USRES you can do CRUD Operation then you can call Posts Service
+##### the second service is POSTS you can do CRUD Operation then you can call Comments Service
+##### the third service is COMMENTS you can do CRUD Operation 
 
-
-#### only for clients
-- Add product in your wishlist
-- Buy product (when this happens, an email is sent to client and to the seller) 
-
-#### only for sellers
-- Create, update and delete products
-- Sell a product
 
 
 ## How to use :wave: (IF YOU WANT TO USE IT LOCALLY) 
 
 To clone and run this application by yourself, make sure you have at least Java 8 and all JDK stuff (including JRE), Maven to build the dependencies,
-Ecplise or STS, and Postman (it's not necessary, though it's really useful to handle a rest API. After that, do the following instructions
+IntelliJ IDEA or Ecplise , and Postman (it's not necessary, though it's really useful to handle a rest API. After that, do the following instructions
 
 - Switch the branch to ```running-locally```
 
 - Clone this repository
 ```bash
-$ https://github.com/MostafaMagdy55/ecommerce.git
+$ https://github.com/MostafaMagdy55/Microservices_Blog_App-.git
 ```
-- Open this project using Eclipse or Spring tool Suit
+- Open this project using  IntelliJ IDEA or Ecplise
+ 
+1.  Run Config Server The endpoints are located in 'http://localhost:8888/'
+2.  Run Eureka Server The endpoints are located in 'http://localhost:8761/'
+3.  Run Users Service ,Run Post Service , Run Comment Service then Run  Api Gateway The endpoints are located in 'http://localhost:8765/'
+ 
 
+ 
+ 
+ 
 - Run ```EcommerceApplication.java```
   > This is gonna be building the maven dependencies too
 
